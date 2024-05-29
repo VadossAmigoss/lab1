@@ -1,0 +1,1 @@
+This is a sample text file. It contains some words of various lengths, including some quite long words like 'extraordinary' and 'uncharacteristically'.
